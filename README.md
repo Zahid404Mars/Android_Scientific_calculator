@@ -1,6 +1,5 @@
 # Android Scientific-Calculator
-
-
+This is my first Android Scientific Calculator. My scientific calculator app provides users with a comprehensive tool for performing complex mathematical calculations on their Android devices. With support for standard arithmetic operations, trigonometric functions,logarithms, and more, users can tackle a wide range of mathematical tasks with ease.
 
 
 # Screens
